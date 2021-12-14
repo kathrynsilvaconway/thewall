@@ -1,0 +1,18 @@
+* {
+    font-family: sans-serif;
+}
+#wrapper {
+    color: black;
+}
+#reg {
+    width: 350px;
+
+}
+#login {
+    width: 300px;
+
+}
+label {
+
+    display: block;
+}
